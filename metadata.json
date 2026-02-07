@@ -1,8 +1,0 @@
-{
-  "name": "ONDO HOMES - Premium Real Estate Mobile App",
-  "description": "A high-end, mobile-first real estate platform for owners and tenants with zero brokerage, multi-step property listing, and premium glassmorphism UI.",
-  "requestFramePermissions": [
-    "camera",
-    "geolocation"
-  ]
-}
